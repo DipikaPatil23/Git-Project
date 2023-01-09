@@ -11,6 +11,7 @@ public class ArrayListDemo {
 		al.add("neha");
 		al.add("ankit");
 		al.add("vikas");
+		al.add("lalit");
 		System.out.println(al);
 		
 	}
